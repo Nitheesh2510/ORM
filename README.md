@@ -3,6 +3,9 @@
 
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
+## ENTITY RELATIONSHIP DIAGRAM:
+![image](https://github.com/user-attachments/assets/9a3b8dfa-fa7d-4926-a797-9a9ea40322f5)
+
 
 
 ## DESIGN STEPS
